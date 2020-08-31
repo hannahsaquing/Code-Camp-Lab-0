@@ -66,13 +66,9 @@ bool lastDigit(int num1, int num2) {
 */
 
 int sum3or5Multiples() {
-    int sum;
+    int sum = 0;
     for (int i=0; i<1000; i++) {
-        if (i%3 == 0) {
-            sum += i;
-        }
-        // use of else if prevents repeating numbers
-        else if (i%5 == 0) {
+        if ((i % 3 == 0) || (i % 5 == 0)) {
             sum += i;
         }
     }
