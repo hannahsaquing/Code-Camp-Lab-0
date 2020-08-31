@@ -92,24 +92,23 @@ int reverseInt(int num) {
         int remainder = num % 10;
         placeValues++;
 
-        if (placeValues > 9 & remainder > 2) { // if the 10th PV is greater than 2, return 0
-            return 0;
-        }
-        // if we're at 10 PVs and it's a 2, then it still can't be more than 2147483647
-        else if ((placeValues > 9) & (remainder == 2) & (reversed > 147483647)) { // if the 10th PV is 2, the part after can't be greater than that
-            return 0;
-        }
-        else if ((placeValues > 9) & (remainder < -2)) {
-            return 0;
-        }
-        else if ((placeValues > 9) & (remainder == -2) & (reversed < -147483648)) {
-            return 0;
-        }
+        if (placeValues > 9) {
+            if (remainder > 2) { // if the 10th PV is greater than 2, return 0 because of overflow
+                return 0;
+            }
+            // if we're at 10 PVs and it's 10th digit is a 2, can't be more than below bc overflow
+            else if ((remainder == 2) & (reversed > 147483647)) { // if the 10th PV is 2, the part after can't be greater than that
+                return 0;
+            } else if (remainder < -2) { // fix overflow error
+                return 0;
+            } else if ((remainder == -2) & (reversed < -147483648)) { //fix overflow error
+                return 0;
+            }
 
-        // if it isn't, it can keep going
-        reversed = reversed * 10 + remainder;
-        num /= 10;
-    }
+            // if it isn't, it can keep going
+            reversed = reversed * 10 + remainder;
+            num /= 10;
+        } }
     return reversed;
 }
 

@@ -23,8 +23,10 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7f00e4cc-7f70-4072-bb9f-c703c3b106b6" name="Default Changelist" comment="hammingDistance">
+    <list default="true" id="7f00e4cc-7f70-4072-bb9f-c703c3b106b6" name="Default Changelist" comment="AllFunctioning">
       <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CodeCamp.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CodeCamp.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CodeCamp.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CodeCamp.exe" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -116,7 +118,7 @@
       <workItem from="1598753173979" duration="24000" />
       <workItem from="1598753200257" duration="2344000" />
       <workItem from="1598755570247" duration="17003000" />
-      <workItem from="1598838072576" duration="79000" />
+      <workItem from="1598838072576" duration="431000" />
     </task>
     <task id="LOCAL-00001" summary="hammingDistance">
       <created>1598754630754</created>
@@ -125,7 +127,14 @@
       <option name="project" value="LOCAL" />
       <updated>1598754630755</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="AllFunctioning">
+      <created>1598838196748</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1598838196748</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -145,7 +154,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="hammingDistance" />
-    <option name="LAST_COMMIT_MESSAGE" value="hammingDistance" />
+    <MESSAGE value="AllFunctioning" />
+    <option name="LAST_COMMIT_MESSAGE" value="AllFunctioning" />
   </component>
   <component name="WindowStateProjectService">
     <state x="469" y="181" key="FileChooserDialogImpl" timestamp="1598754206717">
@@ -196,6 +206,10 @@
       <screen x="0" y="0" width="1368" height="872" />
     </state>
     <state x="190" y="71" key="SettingsEditor/0.0.1368.872@0.0.1368.872" timestamp="1598838152133" />
+    <state x="192" y="159" key="Vcs.Push.Dialog.v2" timestamp="1598838473269">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="192" y="159" key="Vcs.Push.Dialog.v2/0.0.1368.872@0.0.1368.872" timestamp="1598838473269" />
     <state x="205" y="37" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1598823714969">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
