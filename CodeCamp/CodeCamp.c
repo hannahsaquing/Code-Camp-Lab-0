@@ -26,7 +26,7 @@
 */
 
 int hammingDistance(int aList[], int bList[], int len) {
-    int hammingDistance=0;
+    int hammingDistance = 0;
     for (int i=0; i<len; i++) {
         if (aList[i] == bList[i]) {}
         else {
@@ -81,7 +81,7 @@ int sum3or5Multiples() {
 
 
 int reverseInt(int num) {
-    int reversed;
+    int reversed = 0;
     int placeValues = 0; // numbers cannot be greater than 2147483647 or less than -2147483648
 
     while (num != 0) {
