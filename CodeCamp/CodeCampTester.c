@@ -1,5 +1,6 @@
 #include<stdio.h>
 #include<stdbool.h>
+#include<limits.h>
 
 
 // CodeCampTester.c -- EE 312 Project 1 -- Tester class
@@ -127,8 +128,8 @@ int main() {
         printf("**** FAILED **** test 9, reverse int\n\n");
 
     // test 10, reverse int
-    n1 = 30001;
-    expected = 10003;
+    n1 = INT_MIN;
+    expected = 0;
     actual = reverseInt(n1);
     printf("Test 10 reverse int: expected value: %d, actual value: %d\n", expected, actual);
 
