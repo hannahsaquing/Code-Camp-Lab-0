@@ -23,13 +23,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7f00e4cc-7f70-4072-bb9f-c703c3b106b6" name="Default Changelist" comment="Fixed spacing and added overflow comments">
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeCamp.c" beforeDir="false" afterPath="$PROJECT_DIR$/CodeCamp.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeCampTester.c" beforeDir="false" afterPath="$PROJECT_DIR$/CodeCampTester.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CodeCamp.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CodeCamp.exe" afterDir="false" />
-    </list>
+    <list default="true" id="7f00e4cc-7f70-4072-bb9f-c703c3b106b6" name="Default Changelist" comment="Added header information to CodeCampTester.c" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -120,7 +114,7 @@
       <workItem from="1598753173979" duration="24000" />
       <workItem from="1598753200257" duration="2344000" />
       <workItem from="1598755570247" duration="17003000" />
-      <workItem from="1598838072576" duration="1649000" />
+      <workItem from="1598838072576" duration="2123000" />
     </task>
     <task id="LOCAL-00001" summary="hammingDistance">
       <created>1598754630754</created>
@@ -150,7 +144,49 @@
       <option name="project" value="LOCAL" />
       <updated>1598839067778</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="All functions are working with tested edge cases">
+      <created>1598839743285</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1598839743285</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Unversioned Files from Default Changelist">
+      <created>1598839772886</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1598839772886</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Set all empty variable to 0">
+      <created>1598839901812</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1598839901812</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Original CodeCampTester.c code from .zip file">
+      <created>1598840044903</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1598840044903</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Added header information to CodeCampTester.c">
+      <created>1598840128577</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1598840128577</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Added header information to CodeCampTester.c">
+      <created>1598840180415</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1598840180415</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -173,45 +209,54 @@
     <MESSAGE value="AllFunctioning" />
     <MESSAGE value="Cleaned up place values check in reverse function" />
     <MESSAGE value="Fixed spacing and added overflow comments" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fixed spacing and added overflow comments" />
+    <MESSAGE value="All functions are working with tested edge cases" />
+    <MESSAGE value="Unversioned Files from Default Changelist" />
+    <MESSAGE value="Set all empty variable to 0" />
+    <MESSAGE value="Original CodeCampTester.c code from .zip file" />
+    <MESSAGE value="Added header information to CodeCampTester.c" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added header information to CodeCampTester.c" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="100" y="100" width="1170" height="651" key="DiffContextDialog" timestamp="1598840199258">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="100" y="100" width="1170" height="651" key="DiffContextDialog/0.0.1368.872@0.0.1368.872" timestamp="1598840199258" />
     <state x="469" y="181" key="FileChooserDialogImpl" timestamp="1598754206717">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
     <state x="469" y="181" key="FileChooserDialogImpl/0.0.1368.872@0.0.1368.872" timestamp="1598754206717" />
-    <state width="1314" height="277" key="GridCell.Tab.0.bottom" timestamp="1598839716969">
+    <state width="1314" height="270" key="GridCell.Tab.0.bottom" timestamp="1598840198406">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="1314" height="277" key="GridCell.Tab.0.bottom/0.0.1368.872@0.0.1368.872" timestamp="1598839716969" />
-    <state width="1314" height="277" key="GridCell.Tab.0.center" timestamp="1598839716968">
+    <state width="1314" height="270" key="GridCell.Tab.0.bottom/0.0.1368.872@0.0.1368.872" timestamp="1598840198406" />
+    <state width="1314" height="270" key="GridCell.Tab.0.center" timestamp="1598840198405">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="1314" height="277" key="GridCell.Tab.0.center/0.0.1368.872@0.0.1368.872" timestamp="1598839716968" />
-    <state width="1314" height="277" key="GridCell.Tab.0.left" timestamp="1598839716968">
+    <state width="1314" height="270" key="GridCell.Tab.0.center/0.0.1368.872@0.0.1368.872" timestamp="1598840198405" />
+    <state width="1314" height="270" key="GridCell.Tab.0.left" timestamp="1598840198405">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="1314" height="277" key="GridCell.Tab.0.left/0.0.1368.872@0.0.1368.872" timestamp="1598839716968" />
-    <state width="1314" height="277" key="GridCell.Tab.0.right" timestamp="1598839716968">
+    <state width="1314" height="270" key="GridCell.Tab.0.left/0.0.1368.872@0.0.1368.872" timestamp="1598840198405" />
+    <state width="1314" height="270" key="GridCell.Tab.0.right" timestamp="1598840198406">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="1314" height="277" key="GridCell.Tab.0.right/0.0.1368.872@0.0.1368.872" timestamp="1598839716968" />
-    <state width="1314" height="270" key="GridCell.Tab.1.bottom" timestamp="1598839673528">
+    <state width="1314" height="270" key="GridCell.Tab.0.right/0.0.1368.872@0.0.1368.872" timestamp="1598840198406" />
+    <state width="1314" height="270" key="GridCell.Tab.1.bottom" timestamp="1598840198407">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="1314" height="270" key="GridCell.Tab.1.bottom/0.0.1368.872@0.0.1368.872" timestamp="1598839673528" />
-    <state width="1314" height="270" key="GridCell.Tab.1.center" timestamp="1598839673528">
+    <state width="1314" height="270" key="GridCell.Tab.1.bottom/0.0.1368.872@0.0.1368.872" timestamp="1598840198407" />
+    <state width="1314" height="270" key="GridCell.Tab.1.center" timestamp="1598840198406">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="1314" height="270" key="GridCell.Tab.1.center/0.0.1368.872@0.0.1368.872" timestamp="1598839673528" />
-    <state width="1314" height="270" key="GridCell.Tab.1.left" timestamp="1598839673528">
+    <state width="1314" height="270" key="GridCell.Tab.1.center/0.0.1368.872@0.0.1368.872" timestamp="1598840198406" />
+    <state width="1314" height="270" key="GridCell.Tab.1.left" timestamp="1598840198406">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="1314" height="270" key="GridCell.Tab.1.left/0.0.1368.872@0.0.1368.872" timestamp="1598839673528" />
-    <state width="1314" height="270" key="GridCell.Tab.1.right" timestamp="1598839673528">
+    <state width="1314" height="270" key="GridCell.Tab.1.left/0.0.1368.872@0.0.1368.872" timestamp="1598840198406" />
+    <state width="1314" height="270" key="GridCell.Tab.1.right" timestamp="1598840198407">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="1314" height="270" key="GridCell.Tab.1.right/0.0.1368.872@0.0.1368.872" timestamp="1598839673528" />
+    <state width="1314" height="270" key="GridCell.Tab.1.right/0.0.1368.872@0.0.1368.872" timestamp="1598840198407" />
     <state width="640" height="204" key="ImportCMakeProjectWizard.bottomPanel" timestamp="1598753195476">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
@@ -224,10 +269,10 @@
       <screen x="0" y="0" width="1368" height="872" />
     </state>
     <state x="190" y="71" key="SettingsEditor/0.0.1368.872@0.0.1368.872" timestamp="1598838152133" />
-    <state x="192" y="159" key="Vcs.Push.Dialog.v2" timestamp="1598839706416">
+    <state x="192" y="159" key="Vcs.Push.Dialog.v2" timestamp="1598840141825">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state x="192" y="159" key="Vcs.Push.Dialog.v2/0.0.1368.872@0.0.1368.872" timestamp="1598839706416" />
+    <state x="192" y="159" key="Vcs.Push.Dialog.v2/0.0.1368.872@0.0.1368.872" timestamp="1598840141825" />
     <state x="205" y="37" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1598823714969">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
@@ -242,8 +287,13 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
           <url>file://$PROJECT_DIR$/CodeCampTester.c</url>
-          <line>28</line>
+          <line>98</line>
           <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/CodeCampTester.c</url>
+          <line>109</line>
+          <option name="timeStamp" value="14" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

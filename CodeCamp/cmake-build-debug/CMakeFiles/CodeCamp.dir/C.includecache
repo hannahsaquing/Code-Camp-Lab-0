@@ -6,9 +6,13 @@
 
 #IncludeRegexTransform: 
 
-/cygdrive/c/Hannah's College Files (EE, Math, PHY, etc)/EE 312/CodeCamp/CodeCampTester.c
+/cygdrive/c/Hannah's College Files (EE, Math, PHY, etc)/EE 312/CodeCamp/CodeCamp.c
 stdio.h
 -
+stdlib.h
+-
 stdbool.h
+-
+limits.h
 -
 
