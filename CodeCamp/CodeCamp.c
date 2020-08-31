@@ -79,7 +79,6 @@ int sum3or5Multiples() {
    post: return num with digits reversed if the reverse can be stored as an int, 0 otherwise.
 */
 
-
 int reverseInt(int num) {
     int reversed = 0;
     int placeValues = 0; // numbers cannot be greater than 2147483647 or less than -2147483648

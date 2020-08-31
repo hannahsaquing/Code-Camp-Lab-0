@@ -4,8 +4,8 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "/cygdrive/c/Hannah's College Files (EE, Math, PHY, etc)/EE 312/CodeCamp/CodeCamp.c" "/cygdrive/c/Hannah's College Files (EE, Math, PHY, etc)/EE 312/CodeCamp/cmake-build-debug/CMakeFiles/CodeCamp.dir/CodeCamp.c.o"
-  "/cygdrive/c/Hannah's College Files (EE, Math, PHY, etc)/EE 312/CodeCamp/CodeCampTester.c" "/cygdrive/c/Hannah's College Files (EE, Math, PHY, etc)/EE 312/CodeCamp/cmake-build-debug/CMakeFiles/CodeCamp.dir/CodeCampTester.c.o"
+  "/cygdrive/c/EE-312/CodeCamp/CodeCamp.c" "/cygdrive/c/EE-312/CodeCamp/cmake-build-debug/CMakeFiles/CodeCamp.dir/CodeCamp.c.o"
+  "/cygdrive/c/EE-312/CodeCamp/CodeCampTester.c" "/cygdrive/c/EE-312/CodeCamp/cmake-build-debug/CMakeFiles/CodeCamp.dir/CodeCampTester.c.o"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
 

@@ -1,3 +1,3 @@
-/cygdrive/c/Hannah's College Files (EE, Math, PHY, etc)/EE 312/CodeCamp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/cygdrive/c/Hannah's College Files (EE, Math, PHY, etc)/EE 312/CodeCamp/cmake-build-debug/CMakeFiles/CodeCamp.dir
-/cygdrive/c/Hannah's College Files (EE, Math, PHY, etc)/EE 312/CodeCamp/cmake-build-debug/CMakeFiles/edit_cache.dir
+/cygdrive/c/EE-312/CodeCamp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/c/EE-312/CodeCamp/cmake-build-debug/CMakeFiles/CodeCamp.dir
+/cygdrive/c/EE-312/CodeCamp/cmake-build-debug/CMakeFiles/edit_cache.dir

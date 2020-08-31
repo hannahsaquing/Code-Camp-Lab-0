@@ -23,7 +23,48 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7f00e4cc-7f70-4072-bb9f-c703c3b106b6" name="Default Changelist" comment="Default Changelist" />
+    <list default="true" id="7f00e4cc-7f70-4072-bb9f-c703c3b106b6" name="Default Changelist" comment="Default Changelist">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_8_30_2020_8_58_PM__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_8_30_2020_8_58_PM__Default_Changelist_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeCamp.c" beforeDir="false" afterPath="$PROJECT_DIR$/CodeCamp.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.17.3/CMakeCCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.17.3/CMakeCCompiler.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.17.3/CMakeCXXCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.17.3/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.17.3/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.17.3/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.17.3/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.17.3/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.17.3/CMakeRCCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.17.3/CMakeRCCompiler.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.17.3/CMakeSystem.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.17.3/CMakeSystem.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdC/a.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdC/a.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdCXX/a.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdCXX/a.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CodeCamp.dir/C.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CodeCamp.dir/C.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CodeCamp.dir/CodeCamp.c.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CodeCamp.dir/CodeCamp.c.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CodeCamp.dir/CodeCampTester.c.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CodeCamp.dir/CodeCampTester.c.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CodeCamp.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CodeCamp.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CodeCamp.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CodeCamp.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CodeCamp.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CodeCamp.dir/cmake_clean.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CodeCamp.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CodeCamp.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CodeCamp.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CodeCamp.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CodeCamp.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CodeCamp.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CodeCamp.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CodeCamp.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CodeCamp.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CodeCamp.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CodeCamp.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CodeCamp.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CodeCamp.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CodeCamp.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -58,7 +99,7 @@
             <list>
               <ExternalProjectPojo>
                 <option name="name" value="CodeCamp" />
-                <option name="path" value="C:\Users\Andrew\Documents\Hannah's College Files (EE, Math, PHY, etc)\EE 312\CodeCamp" />
+                <option name="path" value="C:\EE-312\CodeCamp" />
               </ExternalProjectPojo>
             </list>
           </value>
@@ -86,6 +127,11 @@
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunManager">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CodeCamp" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CodeCamp" TARGET_NAME="CodeCamp" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CodeCamp" RUN_TARGET_NAME="CodeCamp">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -94,11 +140,6 @@
     <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
   </component>
@@ -115,6 +156,9 @@
       <workItem from="1598753200257" duration="2344000" />
       <workItem from="1598755570247" duration="17003000" />
       <workItem from="1598838072576" duration="2972000" />
+      <workItem from="1598889383454" duration="167000" />
+      <workItem from="1598889775207" duration="3000" />
+      <workItem from="1598889995811" duration="730000" />
     </task>
     <task id="LOCAL-00001" summary="hammingDistance">
       <created>1598754630754</created>
@@ -244,25 +288,30 @@
       <screen x="0" y="0" width="1368" height="872" />
     </state>
     <state x="100" y="100" width="1170" height="651" key="DiffContextDialog/0.0.1368.872@0.0.1368.872" timestamp="1598840199258" />
-    <state x="469" y="181" key="FileChooserDialogImpl" timestamp="1598754206717">
+    <state x="469" y="181" key="FileChooserDialogImpl" timestamp="1598889538954">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
+    <state x="469" y="181" key="FileChooserDialogImpl/0.0.1368.872/-2560.0.2560.1400@0.0.1368.872" timestamp="1598889538954" />
     <state x="469" y="181" key="FileChooserDialogImpl/0.0.1368.872@0.0.1368.872" timestamp="1598754206717" />
-    <state width="1314" height="277" key="GridCell.Tab.0.bottom" timestamp="1598841103311">
+    <state width="655" height="277" key="GridCell.Tab.0.bottom" timestamp="1598890124980">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
+    <state width="655" height="277" key="GridCell.Tab.0.bottom/0.0.1368.872/-2560.0.2560.1400@0.0.1368.872" timestamp="1598890124980" />
     <state width="1314" height="277" key="GridCell.Tab.0.bottom/0.0.1368.872@0.0.1368.872" timestamp="1598841103311" />
-    <state width="1314" height="277" key="GridCell.Tab.0.center" timestamp="1598841103311">
+    <state width="655" height="277" key="GridCell.Tab.0.center" timestamp="1598890124980">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
+    <state width="655" height="277" key="GridCell.Tab.0.center/0.0.1368.872/-2560.0.2560.1400@0.0.1368.872" timestamp="1598890124980" />
     <state width="1314" height="277" key="GridCell.Tab.0.center/0.0.1368.872@0.0.1368.872" timestamp="1598841103311" />
-    <state width="1314" height="277" key="GridCell.Tab.0.left" timestamp="1598841103311">
+    <state width="655" height="277" key="GridCell.Tab.0.left" timestamp="1598890124979">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
+    <state width="655" height="277" key="GridCell.Tab.0.left/0.0.1368.872/-2560.0.2560.1400@0.0.1368.872" timestamp="1598890124979" />
     <state width="1314" height="277" key="GridCell.Tab.0.left/0.0.1368.872@0.0.1368.872" timestamp="1598841103311" />
-    <state width="1314" height="277" key="GridCell.Tab.0.right" timestamp="1598841103311">
+    <state width="655" height="277" key="GridCell.Tab.0.right" timestamp="1598890124980">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
+    <state width="655" height="277" key="GridCell.Tab.0.right/0.0.1368.872/-2560.0.2560.1400@0.0.1368.872" timestamp="1598890124980" />
     <state width="1314" height="277" key="GridCell.Tab.0.right/0.0.1368.872@0.0.1368.872" timestamp="1598841103311" />
     <state width="1314" height="270" key="GridCell.Tab.1.bottom" timestamp="1598840314678">
       <screen x="0" y="0" width="1368" height="872" />
@@ -280,13 +329,15 @@
       <screen x="0" y="0" width="1368" height="872" />
     </state>
     <state width="1314" height="270" key="GridCell.Tab.1.right/0.0.1368.872@0.0.1368.872" timestamp="1598840314678" />
-    <state width="640" height="204" key="ImportCMakeProjectWizard.bottomPanel" timestamp="1598753195476">
+    <state width="640" height="204" key="ImportCMakeProjectWizard.bottomPanel" timestamp="1598889548699">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
+    <state width="640" height="204" key="ImportCMakeProjectWizard.bottomPanel/0.0.1368.872/-2560.0.2560.1400@0.0.1368.872" timestamp="1598889548699" />
     <state width="640" height="204" key="ImportCMakeProjectWizard.bottomPanel/0.0.1368.872@0.0.1368.872" timestamp="1598753195476" />
-    <state width="640" height="476" key="ImportCMakeProjectWizard.topPanel" timestamp="1598753195476">
+    <state width="640" height="476" key="ImportCMakeProjectWizard.topPanel" timestamp="1598889548698">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
+    <state width="640" height="476" key="ImportCMakeProjectWizard.topPanel/0.0.1368.872/-2560.0.2560.1400@0.0.1368.872" timestamp="1598889548698" />
     <state width="640" height="476" key="ImportCMakeProjectWizard.topPanel/0.0.1368.872@0.0.1368.872" timestamp="1598753195476" />
     <state x="190" y="71" key="SettingsEditor" timestamp="1598838152133">
       <screen x="0" y="0" width="1368" height="872" />
@@ -300,9 +351,10 @@
       <screen x="0" y="0" width="1368" height="872" />
     </state>
     <state x="205" y="37" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1368.872@0.0.1368.872" timestamp="1598823714969" />
-    <state x="0" y="123" width="892" height="206" key="makefile.clean.confirm.dialog" timestamp="1598838074554">
+    <state x="0" y="123" width="892" height="206" key="makefile.clean.confirm.dialog" timestamp="1598890017661">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
+    <state x="0" y="123" width="892" height="206" key="makefile.clean.confirm.dialog/0.0.1368.872/-2560.0.2560.1400@0.0.1368.872" timestamp="1598890017661" />
     <state x="0" y="123" width="892" height="206" key="makefile.clean.confirm.dialog/0.0.1368.872@0.0.1368.872" timestamp="1598838074554" />
   </component>
 </project>
