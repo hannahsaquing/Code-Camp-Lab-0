@@ -104,9 +104,11 @@ int reverseInt(int num) {
             }
 
             // if it isn't, it can keep going
-            reversed = reversed * 10 + remainder;
-            num /= 10;
-        } }
+
+        }
+        reversed = reversed * 10 + remainder;
+        num /= 10;
+    }
     return reversed;
 }
 
