@@ -23,9 +23,10 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7f00e4cc-7f70-4072-bb9f-c703c3b106b6" name="Default Changelist" comment="AllFunctioning">
+    <list default="true" id="7f00e4cc-7f70-4072-bb9f-c703c3b106b6" name="Default Changelist" comment="Cleaned up place values check in reverse function">
       <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CodeCamp.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CodeCamp.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeCamp.c" beforeDir="false" afterPath="$PROJECT_DIR$/CodeCamp.c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CodeCamp.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CodeCamp.exe" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -118,7 +119,7 @@
       <workItem from="1598753173979" duration="24000" />
       <workItem from="1598753200257" duration="2344000" />
       <workItem from="1598755570247" duration="17003000" />
-      <workItem from="1598838072576" duration="431000" />
+      <workItem from="1598838072576" duration="979000" />
     </task>
     <task id="LOCAL-00001" summary="hammingDistance">
       <created>1598754630754</created>
@@ -134,7 +135,14 @@
       <option name="project" value="LOCAL" />
       <updated>1598838196748</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Cleaned up place values check in reverse function">
+      <created>1598838812514</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1598838812514</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -155,29 +163,30 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="hammingDistance" />
     <MESSAGE value="AllFunctioning" />
-    <option name="LAST_COMMIT_MESSAGE" value="AllFunctioning" />
+    <MESSAGE value="Cleaned up place values check in reverse function" />
+    <option name="LAST_COMMIT_MESSAGE" value="Cleaned up place values check in reverse function" />
   </component>
   <component name="WindowStateProjectService">
     <state x="469" y="181" key="FileChooserDialogImpl" timestamp="1598754206717">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
     <state x="469" y="181" key="FileChooserDialogImpl/0.0.1368.872@0.0.1368.872" timestamp="1598754206717" />
-    <state width="1141" height="277" key="GridCell.Tab.0.bottom" timestamp="1598837670785">
+    <state width="1314" height="277" key="GridCell.Tab.0.bottom" timestamp="1598838824957">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="1141" height="277" key="GridCell.Tab.0.bottom/0.0.1368.872@0.0.1368.872" timestamp="1598837670785" />
-    <state width="1141" height="277" key="GridCell.Tab.0.center" timestamp="1598837670785">
+    <state width="1314" height="277" key="GridCell.Tab.0.bottom/0.0.1368.872@0.0.1368.872" timestamp="1598838824957" />
+    <state width="1314" height="277" key="GridCell.Tab.0.center" timestamp="1598838824957">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="1141" height="277" key="GridCell.Tab.0.center/0.0.1368.872@0.0.1368.872" timestamp="1598837670785" />
-    <state width="1141" height="277" key="GridCell.Tab.0.left" timestamp="1598837670785">
+    <state width="1314" height="277" key="GridCell.Tab.0.center/0.0.1368.872@0.0.1368.872" timestamp="1598838824957" />
+    <state width="1314" height="277" key="GridCell.Tab.0.left" timestamp="1598838824957">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="1141" height="277" key="GridCell.Tab.0.left/0.0.1368.872@0.0.1368.872" timestamp="1598837670785" />
-    <state width="1141" height="277" key="GridCell.Tab.0.right" timestamp="1598837670785">
+    <state width="1314" height="277" key="GridCell.Tab.0.left/0.0.1368.872@0.0.1368.872" timestamp="1598838824957" />
+    <state width="1314" height="277" key="GridCell.Tab.0.right" timestamp="1598838824957">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="1141" height="277" key="GridCell.Tab.0.right/0.0.1368.872@0.0.1368.872" timestamp="1598837670785" />
+    <state width="1314" height="277" key="GridCell.Tab.0.right/0.0.1368.872@0.0.1368.872" timestamp="1598838824957" />
     <state width="1141" height="270" key="GridCell.Tab.1.bottom" timestamp="1598837499091">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
@@ -206,10 +215,10 @@
       <screen x="0" y="0" width="1368" height="872" />
     </state>
     <state x="190" y="71" key="SettingsEditor/0.0.1368.872@0.0.1368.872" timestamp="1598838152133" />
-    <state x="192" y="159" key="Vcs.Push.Dialog.v2" timestamp="1598838473269">
+    <state x="192" y="159" key="Vcs.Push.Dialog.v2" timestamp="1598839004336">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state x="192" y="159" key="Vcs.Push.Dialog.v2/0.0.1368.872@0.0.1368.872" timestamp="1598838473269" />
+    <state x="192" y="159" key="Vcs.Push.Dialog.v2/0.0.1368.872@0.0.1368.872" timestamp="1598839004336" />
     <state x="205" y="37" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1598823714969">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
