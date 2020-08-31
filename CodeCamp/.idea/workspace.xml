@@ -23,7 +23,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7f00e4cc-7f70-4072-bb9f-c703c3b106b6" name="Default Changelist" comment="Added header information to CodeCampTester.c" />
+    <list default="true" id="7f00e4cc-7f70-4072-bb9f-c703c3b106b6" name="Default Changelist" comment="Default Changelist" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -114,7 +114,7 @@
       <workItem from="1598753173979" duration="24000" />
       <workItem from="1598753200257" duration="2344000" />
       <workItem from="1598755570247" duration="17003000" />
-      <workItem from="1598838072576" duration="2123000" />
+      <workItem from="1598838072576" duration="2972000" />
     </task>
     <task id="LOCAL-00001" summary="hammingDistance">
       <created>1598754630754</created>
@@ -186,7 +186,28 @@
       <option name="project" value="LOCAL" />
       <updated>1598840180415</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Removed remainder calculation out of wrong if statement">
+      <created>1598840374900</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1598840374900</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Default Changelist">
+      <created>1598840389386</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1598840389386</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Default Changelist">
+      <created>1598841113790</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1598841113790</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -214,7 +235,9 @@
     <MESSAGE value="Set all empty variable to 0" />
     <MESSAGE value="Original CodeCampTester.c code from .zip file" />
     <MESSAGE value="Added header information to CodeCampTester.c" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added header information to CodeCampTester.c" />
+    <MESSAGE value="Removed remainder calculation out of wrong if statement" />
+    <MESSAGE value="Default Changelist" />
+    <option name="LAST_COMMIT_MESSAGE" value="Default Changelist" />
   </component>
   <component name="WindowStateProjectService">
     <state x="100" y="100" width="1170" height="651" key="DiffContextDialog" timestamp="1598840199258">
@@ -225,38 +248,38 @@
       <screen x="0" y="0" width="1368" height="872" />
     </state>
     <state x="469" y="181" key="FileChooserDialogImpl/0.0.1368.872@0.0.1368.872" timestamp="1598754206717" />
-    <state width="1314" height="270" key="GridCell.Tab.0.bottom" timestamp="1598840198406">
+    <state width="1314" height="277" key="GridCell.Tab.0.bottom" timestamp="1598841103311">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="1314" height="270" key="GridCell.Tab.0.bottom/0.0.1368.872@0.0.1368.872" timestamp="1598840198406" />
-    <state width="1314" height="270" key="GridCell.Tab.0.center" timestamp="1598840198405">
+    <state width="1314" height="277" key="GridCell.Tab.0.bottom/0.0.1368.872@0.0.1368.872" timestamp="1598841103311" />
+    <state width="1314" height="277" key="GridCell.Tab.0.center" timestamp="1598841103311">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="1314" height="270" key="GridCell.Tab.0.center/0.0.1368.872@0.0.1368.872" timestamp="1598840198405" />
-    <state width="1314" height="270" key="GridCell.Tab.0.left" timestamp="1598840198405">
+    <state width="1314" height="277" key="GridCell.Tab.0.center/0.0.1368.872@0.0.1368.872" timestamp="1598841103311" />
+    <state width="1314" height="277" key="GridCell.Tab.0.left" timestamp="1598841103311">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="1314" height="270" key="GridCell.Tab.0.left/0.0.1368.872@0.0.1368.872" timestamp="1598840198405" />
-    <state width="1314" height="270" key="GridCell.Tab.0.right" timestamp="1598840198406">
+    <state width="1314" height="277" key="GridCell.Tab.0.left/0.0.1368.872@0.0.1368.872" timestamp="1598841103311" />
+    <state width="1314" height="277" key="GridCell.Tab.0.right" timestamp="1598841103311">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="1314" height="270" key="GridCell.Tab.0.right/0.0.1368.872@0.0.1368.872" timestamp="1598840198406" />
-    <state width="1314" height="270" key="GridCell.Tab.1.bottom" timestamp="1598840198407">
+    <state width="1314" height="277" key="GridCell.Tab.0.right/0.0.1368.872@0.0.1368.872" timestamp="1598841103311" />
+    <state width="1314" height="270" key="GridCell.Tab.1.bottom" timestamp="1598840314678">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="1314" height="270" key="GridCell.Tab.1.bottom/0.0.1368.872@0.0.1368.872" timestamp="1598840198407" />
-    <state width="1314" height="270" key="GridCell.Tab.1.center" timestamp="1598840198406">
+    <state width="1314" height="270" key="GridCell.Tab.1.bottom/0.0.1368.872@0.0.1368.872" timestamp="1598840314678" />
+    <state width="1314" height="270" key="GridCell.Tab.1.center" timestamp="1598840314677">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="1314" height="270" key="GridCell.Tab.1.center/0.0.1368.872@0.0.1368.872" timestamp="1598840198406" />
-    <state width="1314" height="270" key="GridCell.Tab.1.left" timestamp="1598840198406">
+    <state width="1314" height="270" key="GridCell.Tab.1.center/0.0.1368.872@0.0.1368.872" timestamp="1598840314677" />
+    <state width="1314" height="270" key="GridCell.Tab.1.left" timestamp="1598840314677">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="1314" height="270" key="GridCell.Tab.1.left/0.0.1368.872@0.0.1368.872" timestamp="1598840198406" />
-    <state width="1314" height="270" key="GridCell.Tab.1.right" timestamp="1598840198407">
+    <state width="1314" height="270" key="GridCell.Tab.1.left/0.0.1368.872@0.0.1368.872" timestamp="1598840314677" />
+    <state width="1314" height="270" key="GridCell.Tab.1.right" timestamp="1598840314678">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="1314" height="270" key="GridCell.Tab.1.right/0.0.1368.872@0.0.1368.872" timestamp="1598840198407" />
+    <state width="1314" height="270" key="GridCell.Tab.1.right/0.0.1368.872@0.0.1368.872" timestamp="1598840314678" />
     <state width="640" height="204" key="ImportCMakeProjectWizard.bottomPanel" timestamp="1598753195476">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
@@ -269,10 +292,10 @@
       <screen x="0" y="0" width="1368" height="872" />
     </state>
     <state x="190" y="71" key="SettingsEditor/0.0.1368.872@0.0.1368.872" timestamp="1598838152133" />
-    <state x="192" y="159" key="Vcs.Push.Dialog.v2" timestamp="1598840141825">
+    <state x="192" y="159" key="Vcs.Push.Dialog.v2" timestamp="1598841118689">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state x="192" y="159" key="Vcs.Push.Dialog.v2/0.0.1368.872@0.0.1368.872" timestamp="1598840141825" />
+    <state x="192" y="159" key="Vcs.Push.Dialog.v2/0.0.1368.872@0.0.1368.872" timestamp="1598841118689" />
     <state x="205" y="37" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1598823714969">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
@@ -281,21 +304,5 @@
       <screen x="0" y="0" width="1368" height="872" />
     </state>
     <state x="0" y="123" width="892" height="206" key="makefile.clean.confirm.dialog/0.0.1368.872@0.0.1368.872" timestamp="1598838074554" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/CodeCampTester.c</url>
-          <line>98</line>
-          <option name="timeStamp" value="12" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/CodeCampTester.c</url>
-          <line>109</line>
-          <option name="timeStamp" value="14" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
