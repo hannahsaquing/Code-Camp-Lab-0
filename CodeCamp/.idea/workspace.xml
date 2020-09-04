@@ -23,48 +23,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7f00e4cc-7f70-4072-bb9f-c703c3b106b6" name="Default Changelist" comment="Default Changelist">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_8_30_2020_8_58_PM__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_8_30_2020_8_58_PM__Default_Changelist_.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeCampTester.c" beforeDir="false" afterPath="$PROJECT_DIR$/CodeCampTester.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.17.3/CMakeCCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.17.3/CMakeCCompiler.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.17.3/CMakeCXXCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.17.3/CMakeCXXCompiler.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.17.3/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.17.3/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.17.3/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.17.3/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.17.3/CMakeRCCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.17.3/CMakeRCCompiler.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.17.3/CMakeSystem.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.17.3/CMakeSystem.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdC/a.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdC/a.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdCXX/a.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdCXX/a.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CodeCamp.dir/C.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CodeCamp.dir/C.includecache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CodeCamp.dir/CodeCamp.c.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CodeCamp.dir/CodeCamp.c.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CodeCamp.dir/CodeCampTester.c.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CodeCamp.dir/CodeCampTester.c.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CodeCamp.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CodeCamp.dir/DependInfo.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CodeCamp.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CodeCamp.dir/build.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CodeCamp.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CodeCamp.dir/cmake_clean.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CodeCamp.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CodeCamp.dir/depend.internal" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CodeCamp.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CodeCamp.dir/depend.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CodeCamp.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CodeCamp.dir/flags.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CodeCamp.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CodeCamp.dir/link.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CodeCamp.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CodeCamp.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CodeCamp.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CodeCamp.cbp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CodeCamp.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CodeCamp.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" afterDir="false" />
-    </list>
+    <list default="true" id="7f00e4cc-7f70-4072-bb9f-c703c3b106b6" name="Default Changelist" comment="Changed name to Hannah Mikaela" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -163,7 +122,7 @@
       <workItem from="1599183492114" duration="110000" />
       <workItem from="1599183606453" duration="391000" />
       <workItem from="1599184043455" duration="9000" />
-      <workItem from="1599184072483" duration="671000" />
+      <workItem from="1599184072483" duration="944000" />
     </task>
     <task id="LOCAL-00001" summary="hammingDistance">
       <created>1598754630754</created>
@@ -263,7 +222,21 @@
       <option name="project" value="LOCAL" />
       <updated>1598890760178</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Added Custom Test Cases">
+      <created>1599184934716</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1599184934716</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Changed name to Hannah Mikaela">
+      <created>1599184999404</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1599184999404</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -293,7 +266,9 @@
     <MESSAGE value="Added header information to CodeCampTester.c" />
     <MESSAGE value="Removed remainder calculation out of wrong if statement" />
     <MESSAGE value="Default Changelist" />
-    <option name="LAST_COMMIT_MESSAGE" value="Default Changelist" />
+    <MESSAGE value="Added Custom Test Cases" />
+    <MESSAGE value="Changed name to Hannah Mikaela" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changed name to Hannah Mikaela" />
   </component>
   <component name="WindowStateProjectService">
     <state x="100" y="100" width="1170" height="651" key="DiffContextDialog" timestamp="1598840199258">
@@ -305,26 +280,26 @@
     </state>
     <state x="469" y="181" key="FileChooserDialogImpl/0.0.1368.872/-2560.0.2560.1400@0.0.1368.872" timestamp="1598889538954" />
     <state x="469" y="181" key="FileChooserDialogImpl/0.0.1368.872@0.0.1368.872" timestamp="1598754206717" />
-    <state width="1293" height="373" key="GridCell.Tab.0.bottom" timestamp="1599184724921">
+    <state width="1293" height="373" key="GridCell.Tab.0.bottom" timestamp="1599184895142">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
     <state width="655" height="277" key="GridCell.Tab.0.bottom/0.0.1368.872/-2560.0.2560.1400@0.0.1368.872" timestamp="1598890124980" />
-    <state width="1293" height="373" key="GridCell.Tab.0.bottom/0.0.1368.872@0.0.1368.872" timestamp="1599184724921" />
-    <state width="1293" height="373" key="GridCell.Tab.0.center" timestamp="1599184724920">
+    <state width="1293" height="373" key="GridCell.Tab.0.bottom/0.0.1368.872@0.0.1368.872" timestamp="1599184895142" />
+    <state width="1293" height="373" key="GridCell.Tab.0.center" timestamp="1599184895141">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
     <state width="655" height="277" key="GridCell.Tab.0.center/0.0.1368.872/-2560.0.2560.1400@0.0.1368.872" timestamp="1598890124980" />
-    <state width="1293" height="373" key="GridCell.Tab.0.center/0.0.1368.872@0.0.1368.872" timestamp="1599184724920" />
-    <state width="1293" height="373" key="GridCell.Tab.0.left" timestamp="1599184724920">
+    <state width="1293" height="373" key="GridCell.Tab.0.center/0.0.1368.872@0.0.1368.872" timestamp="1599184895141" />
+    <state width="1293" height="373" key="GridCell.Tab.0.left" timestamp="1599184895141">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
     <state width="655" height="277" key="GridCell.Tab.0.left/0.0.1368.872/-2560.0.2560.1400@0.0.1368.872" timestamp="1598890124979" />
-    <state width="1293" height="373" key="GridCell.Tab.0.left/0.0.1368.872@0.0.1368.872" timestamp="1599184724920" />
-    <state width="1293" height="373" key="GridCell.Tab.0.right" timestamp="1599184724921">
+    <state width="1293" height="373" key="GridCell.Tab.0.left/0.0.1368.872@0.0.1368.872" timestamp="1599184895141" />
+    <state width="1293" height="373" key="GridCell.Tab.0.right" timestamp="1599184895141">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
     <state width="655" height="277" key="GridCell.Tab.0.right/0.0.1368.872/-2560.0.2560.1400@0.0.1368.872" timestamp="1598890124980" />
-    <state width="1293" height="373" key="GridCell.Tab.0.right/0.0.1368.872@0.0.1368.872" timestamp="1599184724921" />
+    <state width="1293" height="373" key="GridCell.Tab.0.right/0.0.1368.872@0.0.1368.872" timestamp="1599184895141" />
     <state width="1314" height="270" key="GridCell.Tab.1.bottom" timestamp="1598840314678">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
@@ -355,11 +330,11 @@
       <screen x="0" y="0" width="1368" height="872" />
     </state>
     <state x="190" y="71" key="SettingsEditor/0.0.1368.872@0.0.1368.872" timestamp="1599183981390" />
-    <state x="192" y="159" key="Vcs.Push.Dialog.v2" timestamp="1598890769792">
+    <state x="192" y="159" key="Vcs.Push.Dialog.v2" timestamp="1599185001058">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
     <state x="192" y="159" key="Vcs.Push.Dialog.v2/0.0.1368.872/-2560.0.2560.1400@0.0.1368.872" timestamp="1598890769792" />
-    <state x="192" y="159" key="Vcs.Push.Dialog.v2/0.0.1368.872@0.0.1368.872" timestamp="1598841118689" />
+    <state x="192" y="159" key="Vcs.Push.Dialog.v2/0.0.1368.872@0.0.1368.872" timestamp="1599185001058" />
     <state x="205" y="37" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1598823714969">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
