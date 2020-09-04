@@ -9,7 +9,7 @@
  *
  * Replace <NAME> with your name.
  *
- * On my honor, Hannah Saquing, this programming project is my own work
+ * On my honor, Hannah Mikaela Saquing, this programming project is my own work
  * and I have not provided this code to any other student.
  *
  * Name: Hannah Saquing

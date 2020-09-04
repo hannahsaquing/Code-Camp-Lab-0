@@ -7,7 +7,7 @@
 
 /* Student information for assignment:
  *
- * Name: Hannah Saquing
+ * Name: Hannah Mikaela Saquing
  * email address: hannah.saquing@utexas.edu
  * UTEID: hos252
  * Section 5 digit ID: 16010
