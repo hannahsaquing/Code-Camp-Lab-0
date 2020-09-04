@@ -12,7 +12,7 @@
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="modules">
           <set>
-            <option value="C:\EE-312\CodeCamp" />
+            <option value="C:\Hannah\EE-312\CodeCamp" />
           </set>
         </option>
         <option name="switches" value="--just-print --print-directory --keep-going" />

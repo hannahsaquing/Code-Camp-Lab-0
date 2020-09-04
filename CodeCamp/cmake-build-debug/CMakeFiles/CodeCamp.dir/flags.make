@@ -6,5 +6,5 @@ C_FLAGS = -g
 
 C_DEFINES = 
 
-C_INCLUDES = 
+C_INCLUDES = -I/cygdrive/c/Hannah/EE-312/CodeCamp/. 
 
